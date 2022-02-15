@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "高考倒计时3.1", "高考倒计时3.1.csproj", "{3FCB1CB9-246D-4C01-B658-F19F35F31EC4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "高考倒计时pro", "..\高考倒计时pro\高考倒计时pro.vdproj", "{E17FC970-6462-4C99-8323-1B256962E6CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FCB1CB9-246D-4C01-B658-F19F35F31EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCB1CB9-246D-4C01-B658-F19F35F31EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCB1CB9-246D-4C01-B658-F19F35F31EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCB1CB9-246D-4C01-B658-F19F35F31EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17FC970-6462-4C99-8323-1B256962E6CB}.Debug|Any CPU.ActiveCfg = Debug
+		{E17FC970-6462-4C99-8323-1B256962E6CB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D64F8FCF-7D36-4943-A06A-1A566D5A5E19}
+	EndGlobalSection
+EndGlobal
